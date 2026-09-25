@@ -14,3 +14,7 @@ Classification example for Landsat
 Tasseled Cap Transformation for atmospherically adjusted Landsat 8 imagery
 
 The Tasseled Cap Transformation (TCT) is a spectral transformation commonly used with Landsat imagery to reduce the original spectral bands into a few physically interpretable components
+
+Project Overview
+
+This project demonstrates the use of Google Earth Engine (GEE) for processing and analysing satellite remote sensing data. It focuses on Sentinel-1, Sentinel-2, and Landsat imagery for vegetation monitoring, land-cover analysis, and environmental assessment. The workflow covers data preprocessing, spectral transformations and indices, spatial analysis, classification, and visualization.
